@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Honda CBR1000RR-R Fireblade",
+    "description": "De Honda CBR1000RR-R Fireblade is een hypersport motor ontwikkeld voor ultieme prestaties op het circuit met MotoGP-technologie.",
+    "price": 22999,
+    "available": true,
+    "release_date": "2020-03-15",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/fireblade.png",
+    "category": "Hypersport",
+    "features": ["Quickshifter", "Titanium uitlaat", "Aerodynamische winglets", "ABS Pro"],
+    "manufacturer": {
+      "manufacturer_id": "honda001",
+      "brand": "Honda",
+      "country": "Japan",
+      "founded_year": 1948,
+      "official_site": "https://www.honda.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Honda CB650R",
+    "description": "De Honda CB650R is een sport-naked motor met een agressieve uitstraling en een krachtige 649cc viercilinder motor.",
+    "price": 8499,
+    "available": true,
+    "release_date": "2019-06-10",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/cb650r.png",
+    "category": "Naked",
+    "features": ["LED verlichting", "Assist/Slipper koppeling", "Viercilinder motor"],
+    "manufacturer": {
+      "manufacturer_id": "honda001",
+      "brand": "Honda",
+      "country": "Japan",
+      "founded_year": 1948,
+      "official_site": "https://www.honda.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Honda Rebel 1100",
+    "description": "De Honda Rebel 1100 is een cruiser met moderne technologie en een relaxte zithouding, ideaal voor lange ritten.",
+    "price": 9899,
+    "available": false,
+    "release_date": "2021-01-25",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/rebel1100.png",
+    "category": "Cruiser",
+    "features": ["DCT Automaat", "Cruise control", "Rolstoelvriendelijk zadel"],
+    "manufacturer": {
+      "manufacturer_id": "honda001",
+      "brand": "Honda",
+      "country": "Japan",
+      "founded_year": 1948,
+      "official_site": "https://www.honda.com"
+    }
+  },
+  {
+    "id": 4,
+    "name": "BMW S1000RR",
+    "description": "De BMW S1000RR is een hypersport motor met een indrukwekkende viercilinder en dynamische elektronische rijhulpsystemen.",
+    "price": 19995,
+    "available": true,
+    "release_date": "2019-04-12",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/s1000rr.png",
+    "category": "Hypersport",
+    "features": ["ShiftCam technologie", "Launch control", "Dynamic damping control"],
+    "manufacturer": {
+      "manufacturer_id": "bmw001",
+      "brand": "BMW Motorrad",
+      "country": "Germany",
+      "founded_year": 1923,
+      "official_site": "https://www.bmw-motorrad.com"
+    }
+  },
+  {
+    "id": 5,
+    "name": "BMW F900R",
+    "description": "De BMW F900R is een naked bike die sportief rijplezier combineert met moderne technologie en connectiviteit.",
+    "price": 9990,
+    "available": true,
+    "release_date": "2020-07-01",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/f900r.png",
+    "category": "Naked",
+    "features": ["Connectivity Display", "ABS Pro", "Dynamic ESA"],
+    "manufacturer": {
+      "manufacturer_id": "bmw001",
+      "brand": "BMW Motorrad",
+      "country": "Germany",
+      "founded_year": 1923,
+      "official_site": "https://www.bmw-motorrad.com"
+    }
+  },
+  {
+    "id": 6,
+    "name": "BMW R18",
+    "description": "De BMW R18 is een klassieke cruiser met een enorme boxer motor en een retro design dat teruggaat naar de oorsprong van BMW.",
+    "price": 18495,
+    "available": false,
+    "release_date": "2020-09-20",
+    "image_url": "https://example.com/images/bmw-r18.jpg",
+    "category": "Cruiser",
+    "features": ["1800cc Boxer", "Retro uitstraling", "Custom mogelijkheden"],
+    "manufacturer": {
+      "manufacturer_id": "bmw001",
+      "brand": "BMW Motorrad",
+      "country": "Germany",
+      "founded_year": 1923,
+      "official_site": "https://www.bmw-motorrad.com"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kawasaki Ninja ZX-10R",
+    "description": "De Kawasaki Ninja ZX-10R is een hypersport motor ontwikkeld in samenwerking met het WorldSBK-team.",
+    "price": 16499,
+    "available": true,
+    "release_date": "2021-02-14",
+    "image_url": "https://example.com/images/kawasaki-ninja-zx10r.jpg",
+    "category": "Hypersport",
+    "features": ["TFT display", "Cornering Management", "Sport-KIT ECU"],
+    "manufacturer": {
+      "manufacturer_id": "kawasaki001",
+      "brand": "Kawasaki",
+      "country": "Japan",
+      "founded_year": 1896,
+      "official_site": "https://www.kawasaki.com"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kawasaki Z900",
+    "description": "De Kawasaki Z900 is een naked bike die kracht en soepel rijgedrag combineert met een agressief design.",
+    "price": 8999,
+    "available": true,
+    "release_date": "2018-05-05",
+    "image_url": "https://example.com/images/kawasaki-z900.jpg",
+    "category": "Naked",
+    "features": ["Treillisframe", "KTRC tractiecontrole", "Full LED verlichting"],
+    "manufacturer": {
+      "manufacturer_id": "kawasaki001",
+      "brand": "Kawasaki",
+      "country": "Japan",
+      "founded_year": 1896,
+      "official_site": "https://www.kawasaki.com"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kawasaki Vulcan S",
+    "description": "De Kawasaki Vulcan S is een cruiser die toegankelijkheid en stijl combineert met een verstelbare ergonomie.",
+    "price": 7699,
+    "available": false,
+    "release_date": "2017-08-11",
+    "image_url": "https://example.com/images/kawasaki-vulcans.jpg",
+    "category": "Cruiser",
+    "features": ["Low seat", "Ergo-fit systeem", "Parallel-twin motor"],
+    "manufacturer": {
+      "manufacturer_id": "kawasaki001",
+      "brand": "Kawasaki",
+      "country": "Japan",
+      "founded_year": 1896,
+      "official_site": "https://www.kawasaki.com"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kawasaki Z H2",
+    "description": "De Kawasaki Z H2 is een unieke naked bike met een supercharger, ongekende prestaties en futuristisch design.",
+    "price": 17999,
+    "available": true,
+    "release_date": "2020-11-30",
+    "image_url": "https://example.com/images/kawasaki-zh2.jpg",
+    "category": "Naked",
+    "features": ["Supercharger", "KTRC", "TFT Display", "Bluetooth connectiviteit"],
+    "manufacturer": {
+      "manufacturer_id": "kawasaki001",
+      "brand": "Kawasaki",
+      "country": "Japan",
+      "founded_year": 1896,
+      "official_site": "https://www.kawasaki.com"
+    }
+  }
+
+]

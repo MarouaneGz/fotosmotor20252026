@@ -30,6 +30,7 @@
     "features": ["LED verlichting", "Assist/Slipper koppeling", "Viercilinder motor"],
     "manufacturer": {
       "manufacturer_id": "honda001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoHonda.png",
       "brand": "Honda",
       "country": "Japan",
       "founded_year": 1948,

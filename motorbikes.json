@@ -96,7 +96,7 @@
     "price": 18495,
     "available": false,
     "release_date": "2020-09-20",
-    "image_url": "https://example.com/images/bmw-r18.jpg",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/r18.png",
     "category": "Cruiser",
     "features": ["1800cc Boxer", "Retro uitstraling", "Custom mogelijkheden"],
     "manufacturer": {
@@ -114,7 +114,7 @@
     "price": 16499,
     "available": true,
     "release_date": "2021-02-14",
-    "image_url": "https://example.com/images/kawasaki-ninja-zx10r.jpg",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/zx10r.png",
     "category": "Hypersport",
     "features": ["TFT display", "Cornering Management", "Sport-KIT ECU"],
     "manufacturer": {
@@ -132,7 +132,7 @@
     "price": 8999,
     "available": true,
     "release_date": "2018-05-05",
-    "image_url": "https://example.com/images/kawasaki-z900.jpg",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/Z900.png",
     "category": "Naked",
     "features": ["Treillisframe", "KTRC tractiecontrole", "Full LED verlichting"],
     "manufacturer": {
@@ -150,7 +150,7 @@
     "price": 7699,
     "available": false,
     "release_date": "2017-08-11",
-    "image_url": "https://example.com/images/kawasaki-vulcans.jpg",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/vulcanS.png",
     "category": "Cruiser",
     "features": ["Low seat", "Ergo-fit systeem", "Parallel-twin motor"],
     "manufacturer": {
@@ -168,7 +168,7 @@
     "price": 17999,
     "available": true,
     "release_date": "2020-11-30",
-    "image_url": "https://example.com/images/kawasaki-zh2.jpg",
+    "image_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/ZH2.png",
     "category": "Naked",
     "features": ["Supercharger", "KTRC", "TFT Display", "Bluetooth connectiviteit"],
     "manufacturer": {

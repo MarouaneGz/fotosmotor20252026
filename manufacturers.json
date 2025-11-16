@@ -5,7 +5,7 @@
     "country": "Japan",
     "founded_year": 1948,
     "official_site": "https://www.honda.com",
-    "logo_url": "https://example.com/logos/honda.png",
+    "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoHonda.png",
     "active": true,
     "specialties": ["Sport", "Naked", "Cruisers", "Touring"]
   },
@@ -15,7 +15,7 @@
     "country": "Germany",
     "founded_year": 1923,
     "official_site": "https://www.bmw-motorrad.com",
-    "logo_url": "https://example.com/logos/bmw.png",
+    "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoBMW.png",
     "active": true,
     "specialties": ["Sport", "Naked", "Cruisers", "Adventure"]
   },
@@ -25,7 +25,7 @@
     "country": "Japan",
     "founded_year": 1896,
     "official_site": "https://www.kawasaki.com",
-    "logo_url": "https://example.com/logos/kawasaki.png",
+    "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoKawa.png",
     "active": true,
     "specialties": ["Sport", "Naked", "Cruisers", "Hypersport"]
   }

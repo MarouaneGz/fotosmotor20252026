@@ -11,6 +11,7 @@
     "features": ["Quickshifter", "Titanium uitlaat", "Aerodynamische winglets", "ABS Pro"],
     "manufacturer": {
       "manufacturer_id": "honda001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoHonda.png",
       "brand": "Honda",
       "country": "Japan",
       "founded_year": 1948,
@@ -47,6 +48,7 @@
     "features": ["DCT Automaat", "Cruise control", "Rolstoelvriendelijk zadel"],
     "manufacturer": {
       "manufacturer_id": "honda001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoHonda.png",
       "brand": "Honda",
       "country": "Japan",
       "founded_year": 1948,
@@ -65,6 +67,7 @@
     "features": ["ShiftCam technologie", "Launch control", "Dynamic damping control"],
     "manufacturer": {
       "manufacturer_id": "bmw001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoBMW.png",
       "brand": "BMW Motorrad",
       "country": "Germany",
       "founded_year": 1923,
@@ -83,6 +86,7 @@
     "features": ["Connectivity Display", "ABS Pro", "Dynamic ESA"],
     "manufacturer": {
       "manufacturer_id": "bmw001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoBMW.png",
       "brand": "BMW Motorrad",
       "country": "Germany",
       "founded_year": 1923,
@@ -101,6 +105,7 @@
     "features": ["1800cc Boxer", "Retro uitstraling", "Custom mogelijkheden"],
     "manufacturer": {
       "manufacturer_id": "bmw001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoBMW.png",
       "brand": "BMW Motorrad",
       "country": "Germany",
       "founded_year": 1923,
@@ -119,6 +124,7 @@
     "features": ["TFT display", "Cornering Management", "Sport-KIT ECU"],
     "manufacturer": {
       "manufacturer_id": "kawasaki001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoKawa.png",
       "brand": "Kawasaki",
       "country": "Japan",
       "founded_year": 1896,
@@ -137,6 +143,7 @@
     "features": ["Treillisframe", "KTRC tractiecontrole", "Full LED verlichting"],
     "manufacturer": {
       "manufacturer_id": "kawasaki001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoKawa.png",
       "brand": "Kawasaki",
       "country": "Japan",
       "founded_year": 1896,
@@ -155,6 +162,7 @@
     "features": ["Low seat", "Ergo-fit systeem", "Parallel-twin motor"],
     "manufacturer": {
       "manufacturer_id": "kawasaki001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoKawa.png",
       "brand": "Kawasaki",
       "country": "Japan",
       "founded_year": 1896,
@@ -173,6 +181,7 @@
     "features": ["Supercharger", "KTRC", "TFT Display", "Bluetooth connectiviteit"],
     "manufacturer": {
       "manufacturer_id": "kawasaki001",
+      "logo_url": "https://raw.githubusercontent.com/MarouaneGz/fotosmotor20252026/refs/heads/main/LogoKawa.png",
       "brand": "Kawasaki",
       "country": "Japan",
       "founded_year": 1896,
